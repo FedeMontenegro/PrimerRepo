@@ -1,0 +1,4 @@
+* Ubicarse en la ruta de la carpeta en la que se guardará el repositorio
+clonado.
+* Click derecho -> git bash
+* Ejecutar el comando -git clone + direccion del repositorio
