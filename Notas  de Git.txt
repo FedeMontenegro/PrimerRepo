@@ -1,4 +1,17 @@
+CLONAR UN REPOSITORIO DE GITHUB:
+
 * Ubicarse en la ruta de la carpeta en la que se guardará el repositorio
 clonado.
 * Click derecho -> git bash
 * Ejecutar el comando -git clone + direccion del repositorio
+-------------------------------------------------------------------------
+OTORGAR  ACCESO COMO COLABORADOR DE EQUIPO EN GITHUB:
+
+* Situarse en el repositorio a compartir
+* Ir a la pestaña 'settings'
+* Ir a 'Manage Access'
+* Confirmar contraseña de cuenta
+* Colocar dirección de email del usuario al que se invitará como colabora-
+dor.
+* Enviar invitación
+* Esperar que el usuario acepte la invitación
